@@ -1,7 +1,5 @@
 package datastructure;
 
-import org.w3c.dom.Node;
-
 import java.io.*;
 import java.util.Deque;
 import java.util.LinkedList;
